@@ -1,0 +1,13 @@
+git clone https://github.com/ashutoshbarve/coursera-learn.git
+
+git checkout gh-pages
+
+git status
+
+cd..
+
+git add .
+
+git commit -m "Barve"
+
+git push
